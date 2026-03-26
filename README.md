@@ -10,7 +10,7 @@
  Logistic Regression / Random Forest
 
  ## Results
- - Accuracy: XX%
+ - Accuracy: 86%
  - Key variables impacting churn
 
  ## Insights
